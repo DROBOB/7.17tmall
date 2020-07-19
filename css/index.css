@@ -716,6 +716,7 @@ img{
     transition: all 1s ease;
 
     transform-origin: left bottom;
+    z-index: 1000000000;
 }
 .side-nav a{
     position: relative;
